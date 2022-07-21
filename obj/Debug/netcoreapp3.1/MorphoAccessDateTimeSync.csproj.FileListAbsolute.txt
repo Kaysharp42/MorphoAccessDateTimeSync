@@ -1,0 +1,14 @@
+C:\Users\ahmed\Documents\MorphoAccessDateTimeSync\MorphoAccessDateTimeSync\bin\Debug\netcoreapp3.1\MorphoAccessDateTimeSync.exe
+C:\Users\ahmed\Documents\MorphoAccessDateTimeSync\MorphoAccessDateTimeSync\bin\Debug\netcoreapp3.1\MorphoAccessDateTimeSync.deps.json
+C:\Users\ahmed\Documents\MorphoAccessDateTimeSync\MorphoAccessDateTimeSync\bin\Debug\netcoreapp3.1\MorphoAccessDateTimeSync.runtimeconfig.json
+C:\Users\ahmed\Documents\MorphoAccessDateTimeSync\MorphoAccessDateTimeSync\bin\Debug\netcoreapp3.1\MorphoAccessDateTimeSync.runtimeconfig.dev.json
+C:\Users\ahmed\Documents\MorphoAccessDateTimeSync\MorphoAccessDateTimeSync\bin\Debug\netcoreapp3.1\MorphoAccessDateTimeSync.dll
+C:\Users\ahmed\Documents\MorphoAccessDateTimeSync\MorphoAccessDateTimeSync\bin\Debug\netcoreapp3.1\MorphoAccessDateTimeSync.pdb
+C:\Users\ahmed\Documents\MorphoAccessDateTimeSync\MorphoAccessDateTimeSync\obj\Debug\netcoreapp3.1\MorphoAccessDateTimeSync.csproj.AssemblyReference.cache
+C:\Users\ahmed\Documents\MorphoAccessDateTimeSync\MorphoAccessDateTimeSync\obj\Debug\netcoreapp3.1\MorphoAccessDateTimeSync.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ahmed\Documents\MorphoAccessDateTimeSync\MorphoAccessDateTimeSync\obj\Debug\netcoreapp3.1\MorphoAccessDateTimeSync.AssemblyInfoInputs.cache
+C:\Users\ahmed\Documents\MorphoAccessDateTimeSync\MorphoAccessDateTimeSync\obj\Debug\netcoreapp3.1\MorphoAccessDateTimeSync.AssemblyInfo.cs
+C:\Users\ahmed\Documents\MorphoAccessDateTimeSync\MorphoAccessDateTimeSync\obj\Debug\netcoreapp3.1\MorphoAccessDateTimeSync.csproj.CoreCompileInputs.cache
+C:\Users\ahmed\Documents\MorphoAccessDateTimeSync\MorphoAccessDateTimeSync\obj\Debug\netcoreapp3.1\MorphoAccessDateTimeSync.dll
+C:\Users\ahmed\Documents\MorphoAccessDateTimeSync\MorphoAccessDateTimeSync\obj\Debug\netcoreapp3.1\MorphoAccessDateTimeSync.pdb
+C:\Users\ahmed\Documents\MorphoAccessDateTimeSync\MorphoAccessDateTimeSync\obj\Debug\netcoreapp3.1\MorphoAccessDateTimeSync.genruntimeconfig.cache
